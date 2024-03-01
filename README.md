@@ -1,2 +1,3 @@
 # Grupo-N4-Algochess
-https://www.overleaf.com/read/rgrqjpqywxbf //informe
+Trabajo práctico de la materia Algoritmos y Programación III.
+Informe: https://www.overleaf.com/read/rgrqjpqywxbf
