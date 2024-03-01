@@ -1,0 +1,25 @@
+.text{
+    -fx-stroke: #000;
+    -fx-stroke-width: .5px;
+}
+
+.label{
+    -fx-font-size: 50px;
+    -fx-font-weight: 800;
+    -fx-text-fill: -fx-text-inner-color;
+    -fx-text-inner-color: rgb(255, 0, 209);
+}
+#nombre-pieza{
+    -fx-text-inner-color: #00ff0f;
+}
+#color-blanco{
+    -fx-text-inner-color: #fff;
+}
+#color-negro{
+    -fx-text-inner-color: #000;
+}
+#dismiss-mensaje{
+    -fx-font-size: 16px;
+    -fx-text-fill: -fx-text-inner-color;
+    -fx-text-inner-color: #fff;
+}

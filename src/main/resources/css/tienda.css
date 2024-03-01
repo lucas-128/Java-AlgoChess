@@ -1,0 +1,8 @@
+#tienda{
+    -fx-padding: 10px;
+    -fx-border-style: dashed;
+    -fx-border-width: 5px;
+    -fx-border-insets: 20px;
+    -fx-border-radius: 2px;
+    -fx-border-color: #ffca2c;
+}

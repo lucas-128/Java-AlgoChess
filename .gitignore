@@ -1,0 +1,47 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+
+# Eclipse
+.project
+.classpath
+.settings
+
+# Idea
+.idea
+*.iml
+*.iws
+*.ipr
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Gradle
+.gradle
+!gradle-wrapper.jar
+
+# Maven
+target
+
+# Build
+out
+build
+bin
+libs
+
+# Jar
+src/main/resources/META-INF
+src/main/resources/META-INF/*
+
+# Otros
+out/*
+README.md
+*.iml
+*.log
+*.swp
+*.bak
+

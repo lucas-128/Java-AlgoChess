@@ -1,0 +1,13 @@
+.text{
+    -fx-stroke: #000;
+    -fx-stroke-width: 1px;
+}
+.label{
+    -fx-font-size: 50px;
+    -fx-text-fill: -fx-text-inner-color;
+    -fx-text-inner-color: white;
+    -fx-font-weight: 900;
+}
+#jugador-label{
+    -fx-text-inner-color: #00f5ff;
+}

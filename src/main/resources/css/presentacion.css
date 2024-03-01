@@ -1,0 +1,27 @@
+.label{
+    -fx-font-size: 25px;
+    -fx-font-family: Arial;
+    -fx-text-fill: -fx-text-inner-color;
+    -fx-text-inner-color: white;
+    -fx-background-color: #0052a4;
+    -fx-padding: 5px;
+    -fx-font-weight: 800;
+    -fx-border-width: 3px;
+    -fx-border-color: white;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+}
+
+.button{
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: -fx-text-inner-color;
+    -fx-text-inner-color: white;
+    -fx-border: none;
+    -fx-padding: 15px 32px;
+    -fx-text-align: center;
+    -fx-font-size: 40px;
+}
+
+.button:hover{
+    -fx-background-color: #50da54;
+}
